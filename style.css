@@ -1,0 +1,21 @@
+#box1 {
+	background-color: green;
+	margin-top:20px;
+	width: 150px;
+	height: 250px;
+	text-align: center;
+	color: white;
+}
+
+#list1, #list2, #list3, #list4, #list5 {
+	text-align: left;
+	color: white;
+}
+
+#p1 {
+	font-weight: bold;
+}
+
+h2 {
+	text-decoration: underline;
+}
